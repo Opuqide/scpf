@@ -1,9 +1,9 @@
 {
   {
-    Book: [
+    Book: {
       "Name": "iBoot Source Code Leak",
       "Author": "Tyler (@Opuqide",
       "Story": "This is a test story, nothing will change, or something, idk."
-    ]
+    }
   }
 }
