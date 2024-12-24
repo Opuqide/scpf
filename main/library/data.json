@@ -1,9 +1,21 @@
 {
-  {
-    Book: {
-      "Name": "iBoot Source Code Leak",
-      "Author": "Tyler (@Opuqide",
-      "Story": "This is a test story, nothing will change, or something, idk."
+    "library": {
+        "books": [
+            {
+                "title": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "text": "The story, told by the six-year-old Jean Louise Finch, takes place during three years (1933–35) of the Great Depression in the fictional town of Maycomb, Alabama, the seat of Maycomb County."
+            },
+            {
+                "title": "1984",
+                "author": "George Orwell",
+                "text": "The story takes place in an imagined future, the year 1984, when much of the world has fallen victim to perpetual war, omnipresent government surveillance, historical negationism, and propaganda." 
+            },
+            {
+                "title": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "text": "The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession with the beautiful former debutante Daisy Buchanan."
+            }
+        ]
     }
-  }
 }
